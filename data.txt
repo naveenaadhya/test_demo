@@ -4,3 +4,8 @@ im from india
 i intrest in devops
 how can you contact me:9999999999
 you can reach by:abcdefgh@mail.com
+to start devops you must learn the following things
+1.basic cmds of linux
+2.shell scripting
+3.
+
