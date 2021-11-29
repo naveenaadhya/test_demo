@@ -15,7 +15,7 @@ to start devops you must learn the following things
 8.git
 etc.....
 these are tools we must know
-and more stuf we have to know abou
-t
+and more stuf we have to know about
+
 
 
