@@ -7,5 +7,11 @@ you can reach by:abcdefgh@mail.com
 to start devops you must learn the following things
 1.basic cmds of linux
 2.shell scripting
-3.
+3.docker
+4.kubernets
+5.jerkins
+6.
+7.
+8.
+
 
