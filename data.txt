@@ -10,8 +10,12 @@ to start devops you must learn the following things
 3.docker
 4.kubernets
 5.jerkins
-6.
-7.
-8.
+6.AWS
+7.putty
+8.git
+etc.....
+these are tools we must know
+and more stuf we have to know abou
+t
 
 
