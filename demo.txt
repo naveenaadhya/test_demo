@@ -2,11 +2,12 @@ hello simple
 way to
 communicate
 to
-PEOple
+PEOPLE
 by
 these 
 ways
-1.by speach
-2.by ph call
-3.by interview
+1.By speach
+2.By ph call
+3.By interview
+you can select one way
 
