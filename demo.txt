@@ -9,4 +9,5 @@ ways
 1.by speach
 2.by ph call
 3.by interview
+you can select one way
 
