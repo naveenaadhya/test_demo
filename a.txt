@@ -1,7 +1,6 @@
-this 
-is
-new
-file
-a.txt
-please verify it
-and submit the review
+first
+second
+third
+fourth
+fifth
+sixth
