@@ -2,6 +2,3 @@ this
 is
 new
 file
-a.txt
-please verify it
-and submit the review
